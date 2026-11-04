@@ -28,4 +28,7 @@
 
 "https://gist.github.com/MotherSphere/d6c049a09ba8ac3085c51ee9df24a4e5#file-nikke-pc-launcher-compromise_ko-md" 
 
-이슈와 상관없이 사용 가능함
+이슈와 상관없이 사용 가능하나 
+
+해당 규칙은 선택한 경로의 실행 파일을 대상으로 하므로, 다른 경로나 프로세스, 차단 이전의 실행까지 보호했다고 보장하지 않기때문에
+“위험을 줄이는 데 도움이 될 수 있지만 감염 여부를 보장하지는 않습니다.”
